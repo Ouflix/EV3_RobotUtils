@@ -1,3 +1,3 @@
 # EV3_RobotUtils
 
--All necessary functions needed to turn and move an ev3 brick
+-All necessary functions needed to mobe and turn an ev3 brick
